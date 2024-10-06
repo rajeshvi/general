@@ -1,0 +1,51 @@
+﻿#single
+{
+    width: 99%;
+    border-collapse: collapse;
+}
+
+#single td
+{
+    width: 50%;
+    border: 1px solid;
+}
+
+#multiple
+{
+    width: 99%;
+    border-collapse: collapse;
+}
+
+#multiple td
+{
+    border: 1px solid;
+}
+
+#buttons
+{
+    width: 99%;
+    border-collapse: collapse;
+}
+
+#buttons td
+{
+    width: 33%;
+    border: 1px solid;
+}
+
+.tablewidthborder
+{
+    width: 99%;
+    border-collapse: collapse;
+}
+
+.tdborder
+{
+    border: 1px solid;
+}
+
+.selected
+{
+    color: white;
+    background: blue;
+}
